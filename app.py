@@ -21,7 +21,7 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(
 logger = logging.getLogger(__name__)
 
 # Constants
-DB_PATH = r"C:\Users\Pavan\Downloads\TDS-Project1-Data-main\TDS-Project1-Data-main\knowledge_base.db"
+DB_PATH = r"C:\Users\Pavan\Downloads\TDS-Project1\TDS-Project1\knowledge_base.db"
 SIMILARITY_THRESHOLD = 0.67
 MAX_RESULTS = 10
 load_dotenv()
