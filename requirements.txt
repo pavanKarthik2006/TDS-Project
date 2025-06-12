@@ -2,3 +2,4 @@ beautifulsoup4
 markdownify
 playwright
 requests
+numpy
